@@ -2,7 +2,7 @@
 
 ### azure/main.sh
  - Create user, group and put that user to group if not exist in Enrta ID
- - Create VM, add it to Entra ID, and enable RDS to user if not exist
+ - Create VM, add it to Entra ID, and enable RDS for user if not exist
 
 **Important notes:**
 - After user creation necessary to login with that user to the https://portal.azure.com to make
