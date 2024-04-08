@@ -1,5 +1,7 @@
 # automation
 
+Azure Active Directory is now Microsoft Entra ID 
+
 ### azure/main.sh
  - Create user, group and put that user to group if not exist in Enrta ID
  - Create VM, add it to Entra ID, and enable RDS for user if not exist
